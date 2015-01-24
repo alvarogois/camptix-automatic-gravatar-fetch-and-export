@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Gravatar Badge Creation
+Plugin Name: Camptix - Fetch and Export Gravatars
 Plugin URI: https://plugins.svn.wordpress.org/camptix-automatic-gravatar-fetch-and-export/
 Description: Automate Gravatar Fetching for Badge Creation in InDesign - an Addon for CampTix 
 Version: 0.1
